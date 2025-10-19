@@ -1,10 +1,10 @@
-# 📚 MediatecaSmart - Sistema de Gestión de Biblioteca
+# BibliotecaSmart - Sistema de Gestión de Biblioteca
 
-## 🎯 Descripción del Proyecto
+## Descripción del Proyecto
 
-**MediatecaSmart** es un sistema de gestión de biblioteca desarrollado en Java que implementa un sistema de préstamos de libros utilizando estructuras de datos personalizadas. El proyecto demuestra el uso de **Lista Enlazada personalizada** para la gestión de préstamos, integrado con **JPA** y **MySQL** para la persistencia de datos.
+**BibliotecaSmart** es un sistema de gestión de biblioteca desarrollado en Java que implementa un sistema de préstamos de libros utilizando estructuras de datos personalizadas. El proyecto demuestra el uso de **Lista Enlazada personalizada** para la gestión de préstamos, integrado con **JPA** y **MySQL** para la persistencia de datos.
 
-## 🏗️ Arquitectura del Sistema
+## Arquitectura del Sistema
 
 ### **Estructura de Datos Personalizada**
 - **MiListaPrestamos**: Implementación de Lista Enlazada desde cero para gestionar préstamos activos
@@ -18,7 +18,7 @@
 - **EclipseLink**: Implementación de JPA
 - **NetBeans IDE**: Entorno de desarrollo
 
-## 📋 Funcionalidades Implementadas
+##  Funcionalidades Implementadas
 
 ### **1. Gestión de Libros**
 - ✅ Agregar nuevos libros al inventario
@@ -97,7 +97,7 @@ MediatecaSmart/
    - Clean and Build Project
    - Run Project (F6)
 
-## 🎓 Conceptos Académicos Demostrados
+##  Conceptos Demostrados
 
 ### **Estructuras de Datos**
 - **Lista Enlazada**: Implementación desde cero sin usar Collections de Java
@@ -161,7 +161,7 @@ public class Libro {
 }
 ```
 
-## 🎯 Objetivos del Proyecto
+##  Objetivos del Proyecto
 
 1. **Demostrar comprensión** de estructuras de datos fundamentales
 2. **Implementar solución real** para gestión de biblioteca
@@ -169,11 +169,10 @@ public class Libro {
 4. **Aplicar conceptos** de programación orientada a objetos
 5. **Desarrollar interfaz** de usuario intuitiva y funcional
 
-## 👨‍💻 Autor
-
-**Desarrollado por:** [Tu Nombre]  
+##  Autor
+ 
 **Curso:** Programación con Estructura de Datos  
-**Institución:** [Nombre de la Universidad]  
+**Institución:** UDB  
 **Año:** 2025
 
 ## 📝 Licencia
@@ -182,4 +181,4 @@ Este proyecto es desarrollado con fines académicos y educativos.
 
 ---
 
-**¡MediatecaSmart - Donde la tecnología se encuentra con la literatura!** 📚✨
+**¡BibliotecaSmart - Donde la tecnología se encuentra con la literatura!** 
